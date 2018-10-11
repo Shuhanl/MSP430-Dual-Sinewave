@@ -25,7 +25,7 @@
  *             ---------------
  *         /|\|               |
  *          | |           P1.0| --> Analog Filters --> Sine Wave
- *          --|RST            |
+ *          --|RST        P1.2| --> Analog Filters --> Sine Wave  |
  *            |               |
  *
  *
